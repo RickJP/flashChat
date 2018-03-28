@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Flash Chat/ChatViewController.swift"
-            timestampString = "543909425.556836"
+            timestampString = "543925321.812746"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "22"
-            endingLineNumber = "22"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
             landmarkName = "ChatViewController"
             landmarkType = "3">
             <Locations>
